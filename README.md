@@ -1,7 +1,7 @@
-## Portfolio-generator
+# Portfolio-generator
 - Created a portfolio using Node.js
 
-# Tools utilized
+## Tools utilized
 - Node Package Manager (NPM)
 - Inquirer
 
