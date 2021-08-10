@@ -1,6 +1,11 @@
-# Portfolio-generator
+## Portfolio-generator
+- Created a portfolio using Node.js
+
+# Tools utilized
+- Node Package Manager (NPM)
+- Inquirer
 
 The portfolio-generator looks as such:
-![alt](https://github.com/jdeschat/challenge-module-2/blob/main/assets/img/portfolio.jpg)
+![alt](https://github.com/jdeschat/portfolio-generator/blob/main/img/preview.png)
 
-Published at:
+Published at: https://jdeschat.github.io/portfolio-generator/
